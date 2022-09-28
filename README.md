@@ -10,7 +10,7 @@ The results speak for themeselves.
 Tecnhologies used:
 OpenAI (gym environment) - CartPole Game
 Keras 
-Kears RL
+Kera RL
 Tensorflow
 GoogleColab for windows gym visualization
 
